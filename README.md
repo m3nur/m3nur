@@ -16,6 +16,7 @@
 ![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=Express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=MongoDB)
 ![Ssss](https://img.shields.io/badge/Sass-grey?style=for-the-badge&logo=Sass)
+![Git](https://img.shields.io/badge/GIT-grey?style=for-the-badge&logo=GIt)
 
 
 
@@ -28,3 +29,5 @@
 
 ## I'm studying at the moment
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript)
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React)
+
