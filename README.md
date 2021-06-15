@@ -1,4 +1,12 @@
 ## Hi there! I'm Nurbek | Front End Developer
+<br/>
+
+### <ul>
+###  <li>🔭 Looking for interesting offers</li>
+  <br/>
+</ul>
+
+<img src='https://www.codewars.com/users/NurMura88/badges/small'>
 
 ### Languages and Tools
 ![JavaSctipt](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=JavaScript)
@@ -7,11 +15,16 @@
 ![NodeJS](https://img.shields.io/badge/NodeJS-grey?style=for-the-badge&logo=Node.js)
 ![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=Express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=MongoDB)
+![Ssss](https://img.shields.io/badge/Sass-grey?style=for-the-badge&logo=Sass)
 
 
-### Projects 
 
-<a href='#' target="_blank">Interview</a><br/>
-<a href='https://constructor-diet.herokuapp.com' target="_blank">Похудей</a><br/>
-<a href='https://nurmura88.github.io/Waxom/default.html' target="_blank">Waxom</a>
 
+
+
+## Projects 
+
+### 1.<a href='#' target="_blank">Interview</a>  2.<a href='https://constructor-diet.herokuapp.com' target="_blank">Похудей</a>  3.<a href='https://nurmura88.github.io/Waxom/default.html' target="_blank">Waxom</a>
+
+## I'm studying at the moment
+![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript)
