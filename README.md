@@ -1,5 +1,4 @@
 ## Hi there! I'm Nurbek | Front End Developer
-<br/>
 
 ### <ul>
 ###  <li>🔭 Looking for interesting offers</li>
@@ -16,11 +15,7 @@
 ![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=Express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=MongoDB)
 ![Ssss](https://img.shields.io/badge/Sass-grey?style=for-the-badge&logo=Sass)
-![Git](https://img.shields.io/badge/GIT-grey?style=for-the-badge&logo=GIt)
-
-
-
-
+![MaterialUI](https://img.shields.io/badge/MaterialUI-grey?style=for-the-badge&logo=MaterialUI)
 
 
 ## Projects 
