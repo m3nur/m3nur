@@ -23,6 +23,6 @@
 ### 1.<a href='#' target="_blank">Interview</a>  2.<a href='https://constructor-diet.herokuapp.com' target="_blank">Похудей</a>  3.<a href='https://nurmura88.github.io/Waxom/default.html' target="_blank">Waxom</a>
 
 ## I'm studying at the moment
-![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript)
-![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React)
+![TypeScript](https://img.shields.io/badge/TypeScript-cbccce?style=for-the-badge&logo=TypeScript)
+![React](https://img.shields.io/badge/React-cbccce?style=for-the-badge&logo=React)
 
