@@ -11,7 +11,7 @@
 
 ### Projects 
 
-<a href='#' target='_black'>Interview</a><br/>
-<a href='https://constructor-diet.herokuapp.com' target='_black'>Похудей</a><br/>
-<a href='https://nurmura88.github.io/Waxom/default.html' target='_black'>Waxom</a>
+<a href='#' target="_blank">Interview</a><br/>
+<a href='https://constructor-diet.herokuapp.com' target="_blank">Похудей</a><br/>
+<a href='https://nurmura88.github.io/Waxom/default.html' target="_blank">Waxom</a>
 
