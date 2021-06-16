@@ -24,5 +24,5 @@
 
 ## I'm studying at the moment
 ![TypeScript](https://img.shields.io/badge/TypeScript-cbccce?style=for-the-badge&logo=TypeScript)
-![React](https://img.shields.io/badge/React-cbccce?style=for-the-badge&logo=React)
+
 
