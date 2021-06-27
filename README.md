@@ -1,4 +1,4 @@
-## Hi there! I'm Nurbek | Front End Developer
+## Hi there! I'm Nurbek | JavaScript Developer
 
 ### <ul>
 ###  <li>🔭 Looking for interesting offers</li>
