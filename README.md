@@ -18,7 +18,7 @@
 ![MaterialUI](https://img.shields.io/badge/MaterialUI-grey?style=for-the-badge&logo=MaterialUI)
 
 
-## Projects 
+## MY Projects 
 
 ### 1.<a href='https://interview-react-express.herokuapp.com' target="_blank">Interview</a>  2.<a href='https://constructor-diet.herokuapp.com' target="_blank">Калькулятор диет</a>  3.<a href='https://nurmura88.github.io/Waxom/default.html' target="_blank">Waxom</a>
 
