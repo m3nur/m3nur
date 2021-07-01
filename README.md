@@ -20,8 +20,9 @@
 
 ## MY Projects 
 
-### 1.<a href='https://interview-react-express.herokuapp.com' target="_blank">Interview</a>  2.<a href='https://constructor-diet.herokuapp.com' target="_blank">Калькулятор диет</a>  3.<a href='https://nurmura88.github.io/Waxom/default.html' target="_blank">Waxom</a>
+### 1.<a href='https://interview-react-express.herokuapp.com' target="_blank">Interview</a>  2.<a href='https://constructor-diet.herokuapp.com' target="_blank">Калькулятор диет</a>  3.<a href='https://nurmura88.github.io/Waxom/default.html' target="_blank">Waxom</a> 4.<a href=https://shopping-cart-roan.vercel.app' target="_blank">Shopping-Cart</a>
 
+https://shopping-cart-roan.vercel.app/
 ## I'm studying at the moment
 ![TypeScript](https://img.shields.io/badge/TypeScript-cbccce?style=for-the-badge&logo=TypeScript)
 
