@@ -18,11 +18,3 @@
 ![MaterialUI](https://img.shields.io/badge/MaterialUI-grey?style=for-the-badge&logo=MaterialUI)
 
 
-## MY Projects 
-
-### 1.<a href='https://interview-react-express.herokuapp.com' target="_blank">Interview</a>  2.<a href='https://nurmura88.github.io/Waxom/default.html' target="_blank">Waxom</a>
-
-## I'm studying at the moment
-![TypeScript](https://img.shields.io/badge/TypeScript-cbccce?style=for-the-badge&logo=TypeScript)
-
-
