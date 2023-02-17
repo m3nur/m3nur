@@ -1,4 +1,4 @@
-## Hi there! I'm Nurbek | Frontend Developer (ReactJS)
+## Hi there! I'm Nurbek | Frontend Developer (React JS)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m3nur)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m3nur) 
 
